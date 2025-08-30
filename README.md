@@ -163,8 +163,8 @@ Two distinct clusters:
 
 ![elbow_method](images/elbow_method.png)
 ![Silhouette_Score](images/Silhouette_Score.png)
-![K-Means_Clustering](images/K-Means_Clustering.png)
-![K-Means_Clustering_3D](images/K-Means_Clustering_3D.png)
+![KMeans_Clustering](images/KMeans_Clustering.png)
+![KMeans_Clustering_3D](images/KMeans_Clustering_3D.png)
 ![average_stats](images/average_stats.png)
 
 ### Agglomerative Clustering
@@ -247,5 +247,7 @@ The smaller or resource-limited clusters likely represent less attractive coloni
 
 - Perform feature importance ranking to drop low-value attributes.
 
-- Investigate temporal analysis: how colonization evolved across years.#   a l i e n - g a l a x y _ p r o j e c t _ 3 0 4 6 3 1  
+- Investigate temporal analysis: how colonization evolved across years.#   a l i e n - g a l a x y _ p r o j e c t _ 3 0 4 6 3 1 
+ 
+ #   a l i e n - g a l a x y _ p r o j e c t _ 3 0 4 6 3 1  
  
