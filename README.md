@@ -246,8 +246,3 @@ The smaller or resource-limited clusters likely represent less attractive coloni
 - Use UMAP/t-SNE for non-linear embeddings before clustering.
 
 - Perform feature importance ranking to drop low-value attributes.
-
-- Investigate temporal analysis: how colonization evolved across years.#   a l i e n - g a l a x y _ p r o j e c t _ 3 0 4 6 3 1 
- 
- #   a l i e n - g a l a x y _ p r o j e c t _ 3 0 4 6 3 1  
- 
